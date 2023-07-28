@@ -1,0 +1,13 @@
+argparse
+paho-mqtt
+#dependencies
+multidict
+attrs
+yarl
+async_timeout
+#multidict==4.5.2
+#attrs>=17.3.0
+#yarl==1.2.6
+#async_timeout>=3.0,<4.0
+aiosignal
+#aiohttp
